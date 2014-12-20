@@ -7,7 +7,7 @@ using System.Web.Mvc;
 
 namespace FileTagger
 {
-    public static class FileTagger
+    public static class Render
     {
         private const string ScriptTemplate = "<script src='{0}' type='text/javascript'></script>";
         private const string LinkTemplate = "<link href='{0}' rel='stylesheet' />";
