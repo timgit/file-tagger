@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FileTagger</id>
+    <version>$version$</version>
+    <title>FileTagger</title>
+    <authors>Tim Jones</authors>
+    <owners>Tim Jones</owners>
+    <licenseUrl>https://github.com/timgit/file-tagger/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/timgit/file-tagger</projectUrl>
+    <iconUrl>https://dl.dropboxusercontent.com/u/101304566/NuGet/FileTagger.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>FileTagger provides HTML helpers to create tags for JavaScript, CSS or other file-based elements in an ASP.NET MVC project.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Whateva</copyright>
+	<tags>javascript css bundling bundle asp.net mvc gulp-rev filerev</tags>
+	<dependencies>
+		<dependency id="Microsoft.AspNet.Mvc" version="5.0.0" />
+	</dependencies>
+  </metadata>
+	<files>
+		<file src="bin\Debug\FileTagger.dll" target="lib" /> 
+	</files>
+  </package>
