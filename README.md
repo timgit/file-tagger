@@ -33,7 +33,7 @@ Single character wildcard usage with question marks
 
 
 #Installation#
-You can either include /src/FileTagger/Render.cs into your ASP.NET MVC project directly or use the NuGet package I created to keep it as an externally versioned  dependency.
+You can either include /src/FileTagger/Render.cs into your ASP.NET MVC project directly or use the [NuGet package]((https://www.nuget.org/packages/FileTagger) I created to keep it as an externally versioned  dependency.
 
 If you'd like to install via NuGet package manager console:
 ```
