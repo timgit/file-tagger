@@ -26,7 +26,7 @@ Wildcard usage - multiple files
 @Render.Links("~/Content/bootstrap-theme*.css")
 ```
  
-Single character wildcard usage
+Single character wildcard usage with question marks
 ```
 @Render.Script("~/Scripts/jquery-2.?.?.js")
 ```
