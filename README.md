@@ -9,7 +9,7 @@ This run-time technique is an alternative to injection tools which write script 
 #Usage#
 Currently, FileTagger is an abstraction over [DirectoryInfo.GetFiles()](http://msdn.microsoft.com/en-us/library/8he88b63%28v=vs.110%29.aspx), so it only supports a limited search pattern such as asterisks and question marks.
 
-Following are some usage examples, assuming you have a ```@using FileTagger``` directive at the top of your layout file.
+Following are some usage examples, assuming you have a ```@using FileTagger``` directive at the top of your cshtml file.
 
 JavaScript bundle wildcard usage (what I built this for)
 ```
